@@ -9,7 +9,7 @@ Python program that performs a simulation of a banking system.
 ```
 # General Information
 To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/109?track=2)
-This Directory has 4 files showing the step-by-step code implementation.
+This Directory has 5 files showing the step-by-step code implementation.
 ```
 bank_stage_one.py
 bank_stage_two.py
