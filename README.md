@@ -2,7 +2,7 @@
 
 Python program that performs a simulation of a banking system.
 ```
-- SQL Databases using SQLite Version 3
+- SQL Database using SQLite Version 3
 - Uses a class
 - Object Oriented Programming
 - Luhn Algorithm
