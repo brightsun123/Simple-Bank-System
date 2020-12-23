@@ -5,6 +5,7 @@ Python program that performs a simulation of a banking system.
 - SQL Databases using SQLite Version 3
 - Uses a class
 - Object Oriented Programming
+- Luhn Algorithm
 ```
 # General Information
 To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/109?track=2)
