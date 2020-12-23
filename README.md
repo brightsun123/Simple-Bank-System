@@ -8,14 +8,11 @@ Python program that performs a simulation of a banking system.
 - Luhn Algorithm
 ```
 # General Information
-To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/109?track=2)
-This Directory has 5 files showing the step-by-step code implementation.
+To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/109?track=2).
+This directory has 2 files showing the final code implementation.
 ```
-bank_stage_one.py
-bank_stage_two.py
-bank_stage_three.py
-bank_stage_four_final.py
-card.s3db - Storing card information
+bank.py
+card.s3db
 ```
 # Running the Porgram
 ```
